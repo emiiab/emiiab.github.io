@@ -4,7 +4,7 @@
 </head>
 <hr>
 <body>
-<center><h1 style="background-color:#ff6347;">Emioritse's Hobbies</h1></center>
+<center><h1 style="background-color:#FFE3E3;">Emioritse's Hobbies</h1></center>
 <h3>My Hobbies</h3>
 <p>I have always loved being creative and finding outlets for it. So, over the years I have amassed may hobbies like crochet, jewelry making, drawing, and painting.</p>
 <p>Some of my current hobbies include:</p>
