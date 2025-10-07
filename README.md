@@ -16,7 +16,7 @@
 <li><b>Cooking/Baking:</b> Cooking and Baking involves using ingredients, science, and kitchen tools to make dishes and desserts. I think I am better at baking than cooking, but I enjoy cooking more. 
 </ol>
 <hr>
-<h3>Pictures of My Hobbies</h3> 
+<center><h3>Pictures of My Hobbies!</h3></center> 
 <img src="crochetbeanie.jpeg" width="135px" height="135px" align=LEFT> <img src="JunkJournal.jpg" width="135px" height="135px" align=LEFT> 
 <img src="smiski.jpeg" width="135px" height="135px" align=LEFT> <img src="tower-bridge.jpg" width="135px" height="135px" align=LEFT> 
 <img src="baking.jpg" width="135px" height="135px" align=LEFT> <img src="cooking.jpg" width="135px" height="135px" align=LEFT> 
@@ -28,6 +28,6 @@
 <br>
 <br>
 <hr>
-<a href="mailto:emiab_05@tamu.edu">Email Me!</a>
+<center><a href="mailto:emiab_05@tamu.edu">Email Me!</a></center>
 </body>
 </html>
