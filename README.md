@@ -28,6 +28,6 @@
 <br>
 <br>
 <hr>
-<center><a href="mailto:emiab_05@tamu.edu">Email Me!</a></center>
+<center><a href="mailto:emiab_05@tamu.edu">Email Me About My Hobbies!</a></center>
 </body>
 </html>
