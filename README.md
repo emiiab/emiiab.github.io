@@ -6,7 +6,7 @@
 <body>
 <center><h1 style="background-color:#FFE3E3;">Emioritse's Hobbies</h1></center>
 <h3>My Hobbies</h3>
-<p>I have always loved being creative and finding outlets for it. So, over the years I have amassed may hobbies like crochet, jewelry making, drawing, and painting.</p>
+<p>I have always loved being creative and finding outlets for it. So, over the years I have amassed many hobbies like crochet, jewelry making, drawing, and painting.</p>
 <p>Some of my current hobbies include:</p>
 <ol>
 <li><b>Crochet:</b> Crochet is a fiber art that involves creating textiles by using a crochet hook to interlock loops of yarn. I have crocheted beanines, scarves, jackets, tops, and more!</li>
