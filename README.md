@@ -20,6 +20,7 @@
 <img src="crochetbeanie.jpeg" width-"100px" height="100px" align=LEFT> <img src="JunkJournal.jpg" width-"100px" height="100px" align=RIGHT> 
 <img src="smiski.jpeg" width-"100px" height="100px" align=LEFT> <img src="tower bridge.jpg" width-"100px" height="100px" align=RIGHT> 
 <img src="baking.jpg" width-"100px" height="100px" align=LEFT> <img src="cooking.jpg" width-"100px" height="100px" align=RIGHT>
+<br>
 <hr>
 <a href=“mailto:emiab_05@tamu.edu”>Email Me!</a>
 </body>
