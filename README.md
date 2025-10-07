@@ -15,7 +15,7 @@
 <li>Photography: Photography is the art of taking and processing photographs. I actualy took a photography class in high school and was a teacher's assistant! 
 <li>Cooking/Baking: Cooking and Baking involves using ingredients, science, and kitchen tools to make dishes and desserts. I think I am better at baking than cooking, but I enjoy cooking more. 
 </ol>
-<img src="crochetbeanie.jpeg" width-"100px" height="100px"> <img src="JunkJournal.jpg" width-"100px" height="100px"> <img src="smiski.jpeg" width-"100px" height="100px"> <img src="tower bridge.jpg" width-"100px" height="100px"> <img src="baking.jpg" width-"100px" height="100px"> <img src="cooking.jpg" width-"100px" height="100px">
+<img src="crochetbeanie.jpeg" width-"100px" height="100px"> <img src="JunkJournal.jpg" width-"100px" height="100px" align=RIGHT> <img src="smiski.jpeg" width-"100px" height="100px"> <img src="tower bridge.jpg" width-"100px" height="100px" align=RIGHT> <img src="baking.jpg" width-"100px" height="100px"> <img src="cooking.jpg" width-"100px" height="100px" align=RIGHT>
 </body>
 <hr>
 <a href=“mailto:emiab_05@tamu.edu”>Email Me!</a>
