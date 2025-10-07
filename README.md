@@ -17,11 +17,9 @@
 </ol>
 <hr>
 <h3>Pictures of My Hobbies</h3> 
-<img src="crochetbeanie.jpeg" width-"150px" height="150px" align=CENTER> <img src="JunkJournal.jpg" width-"150px" height="150px" align=CENTER> 
-<img src="smiski.jpeg" width-"150px" height="150px" align=CENTER> <img src="tower bridge.jpg" width-"150px" height="150px" align=CENTER> 
-<img src="baking.jpg" width-"150px" height="150px" align=CENTER> <img src="cooking.jpg" width-"150px" height="150px" align=CENTER>
-<br>
-<br>
+<img src="crochetbeanie.jpeg" width-"150px" height="150px" align=LEFT> <img src="JunkJournal.jpg" width-"150px" height="150px" align=LEFT> 
+<img src="smiski.jpeg" width-"150px" height="150px" align=LEFT> <img src="tower bridge.jpg" width-"150px" height="150px" align=LEFT> 
+<img src="baking.jpg" width-"150px" height="150px" align=LEFT> <img src="cooking.jpg" width-"150px" height="150px" align=LEFT>
 <br>
 <br>
 <br>
