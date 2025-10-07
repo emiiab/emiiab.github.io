@@ -25,6 +25,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <hr>
 <a href=“mailto:emiab_05@tamu.edu”>Email Me!</a>
 </body>
