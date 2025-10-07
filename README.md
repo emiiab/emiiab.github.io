@@ -17,13 +17,10 @@
 <li>Cooking/Baking: Cooking and Baking involves using ingredients, science, and kitchen tools to make dishes and desserts. I think I am better at baking than cooking, but I enjoy cooking more. 
 </ol>
 <hr>
-<h3>Pictures of My Hobbies</h3> 
-<img src="crochetbeanie.jpeg" width="135px" height="135px" align="left">
-<img src="JunkJournal.jpg" width="135px" height="135px" align="left"> 
-<img src="smiski.jpeg" width="135px" height="135px" align="left">
-<img src="tower-bridge.jpg" width="135px" height="135px" align="left"> 
-<img src="baking.jpg" width="135px" height="135px" align="left">
-<img src="cooking.jpg" width="135px" height="135px" align="left">
+h3>Pictures of My Hobbies</h3> 
+<img src="crochetbeanie.jpeg" width="135px" height="135px" align=LEFT> <img src="JunkJournal.jpg" width="135px" height="135px" align=LEFT> 
+<img src="smiski.jpeg" width="135px" height="135px" align=LEFT> <img src="tower-bridge.jpg" width="135px" height="135px" align=LEFT> 
+<img src="baking.jpg" width="135px" height="135px" align=LEFT> <img src="cooking.jpg" width="135px" height="135px" align=LEFT> 
 <br>
 <br>
 <br>
